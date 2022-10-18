@@ -5,9 +5,9 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"ADMOB_BANNER": "ca-app-pub-2205213716948207/7330923744",
-	"ADMOB_INTERSTITIAL": "ca-app-pub-2205213716948207/8583655034",
-	 "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
+	"ADMOB_BANNER": "",
+	"ADMOB_INTERSTITIAL": "",
+	 "ADMOB_NATIVE": "",
 	 
 
 	"APPLOVIN_BANNER_ID": "4a2c2dabf837f44e",
@@ -21,8 +21,8 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 0,
-	"MaxClick": 1,
+	"SwitchAds": 3,
+	"MaxClick": 2,
 
 	"MoreApps": "57553",
 
