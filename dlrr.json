@@ -70,6 +70,6 @@
 	"New_Package_Name":"You Need To Install New Update Now!",
 	"Version_Code": 3,
 	"Description_dialog":"com.dollartreebig.lotsdollartreeshop",
-	"Is_Force":true
+	"Is_Force":false
 
 } 
