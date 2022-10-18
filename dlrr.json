@@ -5,8 +5,8 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
-	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+	"ADMOB_BANNER": "ca-app-pub-8212812789522365/4786931788",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-8212812789522365/4870692260",
 	 "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
 	 
 
@@ -14,15 +14,15 @@
 	"APPLOVIN_INTERSTITIAL_ID": "48d31881a590daef",
 	"Quize_Link":"https://t.co/U8MUUybIu8",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
-	"MaxClick": 4,
+	"SwitchAds": 0,
+	"MaxClick": 1,
 
 	"MoreApps": "57553",
 
