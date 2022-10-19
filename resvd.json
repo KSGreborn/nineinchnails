@@ -31,7 +31,7 @@
 	"popAppImage": "https://i.ibb.co/Jcqfrp5/reservicon.jpg",
 	"popAppPackage": "",
 	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
+	"popAppIsActive_browser": true,
 	"Interval_Time":40000, 
   
   
