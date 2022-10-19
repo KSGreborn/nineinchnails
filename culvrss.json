@@ -14,7 +14,7 @@
 	"APPLOVIN_INTERSTITIAL_ID": "e0faec67d528b17d",
 	"Quize_Link":"https://t.co/U8MUUybIu8",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -30,17 +30,17 @@
 	"popAppName": "Get Free Coupon",
 	"popAppImage": "https://i.ibb.co/T88nHcY/culvrs.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":40000, 
   
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"choose yes or no",
+	"textPage4":"Do You Like Culvers!",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate":false,
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://t.co/ebhCKAxj4L"
+			"url": "https://"
 		}
 	
 
