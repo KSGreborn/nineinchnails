@@ -30,7 +30,7 @@
 	"popAppName": "Get Free Coupon",
 	"popAppImage": "https://i.ibb.co/T88nHcY/culvrs.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": false,
+	"popAppIsActive_first": true,
 	"popAppIsActive_browser": true,
 	"Interval_Time":30000, 
   
