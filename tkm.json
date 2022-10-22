@@ -14,15 +14,15 @@
 	"APPLOVIN_INTERSTITIAL_ID": "009933e0573a31da",
 	"Quize_Link":"https://t.co/8yPp15sysS",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
-	"MaxClick": 10,
+	"SwitchAds": 0,
+	"MaxClick": 2,
 
 	"MoreApps": "57553",
 
@@ -30,17 +30,17 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/ZBvznDy/tkmx.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":30000, 
   
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"choose yes or no",
+	"textPage4":"Do You Like Shopping?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate":false,
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://t.co/8yPp15sysS"
+			"url": "https://"
 		}
 	
 
