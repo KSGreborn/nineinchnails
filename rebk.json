@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":true,  
+    "ENABLE_Ads":false,  
 	"APP_KEY": "fS76567633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -12,9 +12,9 @@
 
 	"APPLOVIN_BANNER_ID": "61db264e9193e677",
 	"APPLOVIN_INTERSTITIAL_ID": "ca200262e5bd2838",
-	"Quize_Link":"https://github.com/",
+	"Quize_Link":"https://t.co/GRTD8XsGZL",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":false,
+	"ENABLE_Quize_ONBROWSER":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -22,17 +22,17 @@
 	"UNITY_TEST_MODE": false,
 
 	"SwitchAds": 2,
-	"MaxClick": 3,
+	"MaxClick": 4,
 
 	"MoreApps": "57553",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc2",
-	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
-	"Interval_Time":20000, 
+	"popAppLink": "https://t.co/GRTD8XsGZL",
+	"popAppName": "Get Up To 50% Promo",
+	"popAppImage": "https://i.ibb.co/xSH5q09/promo.png",
+	"popAppPackage": "",
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
+	"Interval_Time":40000, 
   
   
 	"isPage1Activate": true,
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://t.co/SstLPrvPAi"
+			"url": "https://t.co/GRTD8XsGZL"
 		}
 	
 
