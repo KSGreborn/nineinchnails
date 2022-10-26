@@ -14,7 +14,7 @@
 	"APPLOVIN_INTERSTITIAL_ID": "ca200262e5bd2838",
 	"Quize_Link":"https://t.co/fHVPynPXDY",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
