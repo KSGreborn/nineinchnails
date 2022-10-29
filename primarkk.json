@@ -10,8 +10,8 @@
 	 "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
 	 
 
-	"APPLOVIN_BANNER_ID": "793766d5d28700eb",
-	"APPLOVIN_INTERSTITIAL_ID": "ebbf384a022ae1a8",
+	"APPLOVIN_BANNER_ID": "0e3eba33e82ea029",
+	"APPLOVIN_INTERSTITIAL_ID": "955ee568c6b7e707",
 	"Quize_Link":"https://bit.ly/3fdgAgH",
 	"ENABLE_Quize_ONBACK":false,
 	"ENABLE_Quize_ONBROWSER":true,
@@ -26,18 +26,18 @@
 
 	"MoreApps": "57553",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc2",
-	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
-	"Interval_Time":20000, 
+	"popAppLink": "https://vidstuff.xyz/o/132730/53174327",
+	"popAppName": "Get Free Gift",
+	"popAppImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
+	"popAppPackage": "",
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
+	"Interval_Time":30000, 
   
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
