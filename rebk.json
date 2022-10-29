@@ -12,9 +12,9 @@
 
 	"APPLOVIN_BANNER_ID": "61db264e9193e677",
 	"APPLOVIN_INTERSTITIAL_ID": "ca200262e5bd2838",
-	"Quize_Link":"https://bit.ly/3fdgAgH",
+	"Quize_Link":"https://t.co/6qEWmTdGbQ",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":false,
+	"ENABLE_Quize_ONBROWSER":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -30,8 +30,8 @@
 	"popAppName": "Get Free Gift",
 	"popAppImage": "https://logoeps.com/wp-content/uploads/2014/04/39140-gift-card-logo-icon-vector-icon-vector-eps.png",
 	"popAppPackage": "",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
 	"Interval_Time":40000, 
   
   
