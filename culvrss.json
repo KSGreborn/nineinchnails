@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":true,  
+    "ENABLE_Ads":false,  
 	"APP_KEY": "fS76567633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -30,8 +30,8 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/T88nHcY/culvrs.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":30000, 
   
   
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://vidstuff.xyz/o/132730/53177516"
+			"url": "https://"
 		}
 	
 
